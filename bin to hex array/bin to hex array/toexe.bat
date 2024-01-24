@@ -1,0 +1,1 @@
+pyinstaller TO_EXE.spec

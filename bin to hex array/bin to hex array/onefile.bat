@@ -1,0 +1,1 @@
+pyinstaller --onefile bin_to_hex_array.py
